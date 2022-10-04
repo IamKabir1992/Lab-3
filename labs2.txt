@@ -1,6 +1,3 @@
-SW Development
-Software Development
-Software Development
 The student is able to write solution algorithms for the given problem + Line 1
 with the chosen programming language. The student is able to identify
 the typical phases and activities in the software development process.
